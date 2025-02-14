@@ -1,2 +1,2 @@
 # Operator-Overloading
-Operator Overloading шт С++
+Operator Overloading in C++
